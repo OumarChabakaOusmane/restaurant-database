@@ -22,6 +22,9 @@ La base de données comprend les tables suivantes :
 - `FACTURE` - Transactions financières
 - `FOURNISSEUR` - Partenaires d'approvisionnement
 
+![Modèle conceptuel de données](./mcd.png)
+
+
 ## Installation
 
 ### Prérequis
